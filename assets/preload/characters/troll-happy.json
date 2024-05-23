@@ -1,0 +1,94 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "happy_idle",
+			"indices": [
+				13,
+				14,
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-54,
+				-18
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "happy_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				106,
+				-4
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "happy_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-30,
+				-11
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "happy_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				30,
+				-3
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "happy_right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/trolling/happinesstroll",
+	"position": [
+		250,
+		260
+	],
+	"healthicon": "troll-happy",
+	"flip_x": false,
+	"healthbar_colors": [
+		102,
+		113,
+		80
+	],
+	"camera_position": [
+		-500,
+		-300
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

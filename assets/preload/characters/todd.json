@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				42,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				-2,
+				-53
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-149,
+				2
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				-11,
+				135
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				2380,
+				1440
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "take",
+			"indices": [],
+			"name": "take"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/collab/todd",
+	"position": [
+		160,
+		390
+	],
+	"healthicon": "todd",
+	"flip_x": false,
+	"healthbar_colors": [
+		55,
+		53,
+		54
+	],
+	"camera_position": [
+		-140,
+		-140
+	],
+	"sing_duration": 4.00000000000001,
+	"scale": 2.8
+}

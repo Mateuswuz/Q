@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "cerealrage_idle"
+		},
+		{
+			"offsets": [
+				206,
+				98
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "cerealrage_up"
+		},
+		{
+			"offsets": [
+				121,
+				6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "cerealrage_left"
+		},
+		{
+			"offsets": [
+				-36,
+				-130
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "cerealrage_down"
+		},
+		{
+			"offsets": [
+				-7,
+				-26
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "cerealrage_right"
+		},
+		{
+			"offsets": [
+				267,
+				173
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "pissed",
+			"indices": [],
+			"name": "cerealtable0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/internet/cereal_guy_rage",
+	"position": [
+		282,
+		170
+	],
+	"healthicon": "cereal",
+	"flip_x": false,
+	"healthbar_colors": [
+		215,
+		215,
+		235
+	],
+	"camera_position": [
+		-210,
+		-180
+	],
+	"sing_duration": 4,
+	"scale": 2.2
+}

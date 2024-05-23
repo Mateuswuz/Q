@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				90,
+				92
+			],
+			"anim": "idle",
+			"fps": 14,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-119,
+				149
+			],
+			"anim": "singUP",
+			"fps": 14,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				86,
+				73
+			],
+			"anim": "singLEFT",
+			"fps": 14,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				220,
+				7
+			],
+			"anim": "singDOWN",
+			"fps": 14,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-176,
+				51
+			],
+			"anim": "singRIGHT",
+			"fps": 14,
+			"name": "right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/trolling/limc_trollge",
+	"position": [
+		120,
+		540
+	],
+	"healthicon": "lore-trollge",
+	"flip_x": true,
+	"healthbar_colors": [
+		80,
+		80,
+		80
+	],
+	"camera_position": [
+		-70,
+		-230
+	],
+	"sing_duration": 4,
+	"scale": 2.6
+}

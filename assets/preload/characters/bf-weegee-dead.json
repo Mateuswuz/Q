@@ -1,0 +1,48 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf_death0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "static",
+			"fps": 24,
+			"name": "bf_death0",
+			"indices": [
+				0,
+				1
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/internet/bfSMWDEATH_assets",
+	"position": [
+		10,
+		280
+	],
+	"healthicon": "bf",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		70,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 2
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				111
+			],
+			"anim": "singLEFT",
+			"fps": 15,
+			"name": "trollage left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				119,
+				112
+			],
+			"anim": "singDOWN",
+			"fps": 15,
+			"name": "trollage down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				112
+			],
+			"anim": "idle",
+			"fps": 15,
+			"name": "trollage idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				112
+			],
+			"anim": "singRIGHT",
+			"fps": 15,
+			"name": "trollage up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				120,
+				111
+			],
+			"anim": "singUP",
+			"fps": 15,
+			"name": "trollage right",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/trolling/trollage",
+	"position": [
+		380,
+		390
+	],
+	"healthicon": "cy-trollge",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-580,
+		-155
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

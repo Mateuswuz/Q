@@ -1,0 +1,207 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "bf_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-8
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "bf_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-64
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "bf_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-40,
+				-12
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bf_right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				23
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bf_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				15,
+				15
+			],
+			"anim": "pullup",
+			"fps": 24,
+			"name": "bf_pullup",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-37,
+				-27
+			],
+			"anim": "dodge",
+			"fps": 24,
+			"name": "bf_dodge",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				14
+			],
+			"anim": "bowlshat",
+			"fps": 24,
+			"name": "bf_bowl",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				7,
+				14
+			],
+			"anim": "bowlshat2",
+			"fps": 36,
+			"name": "bf_bowl",
+			"indices": [
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-8,
+				-9
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "bf_missleft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-25,
+				-63
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "bf_missdown",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-39,
+				-12
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "bf_missright",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-24,
+				21
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "bf_missup",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/internet/bf_cereal",
+	"position": [
+		140,
+		440
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		120,
+		-130
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

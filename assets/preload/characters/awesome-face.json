@@ -1,0 +1,125 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				92,
+				-13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				92,
+				335
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				47,
+				5
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				93,
+				-23
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "DOWN"
+		},
+		{
+			"offsets": [
+				-24,
+				-14
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idlePre",
+			"indices": [],
+			"name": "intro idle"
+		},
+		{
+			"offsets": [
+				-36,
+				1556
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "intro",
+			"indices": [],
+			"name": "introduction"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				289,
+				1123
+			],
+			"anim": "into",
+			"fps": 24,
+			"name": "into idle",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/internet/awesomefac",
+	"position": [
+		460,
+		360
+	],
+	"healthicon": "awesome-face",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		218,
+		14
+	],
+	"camera_position": [
+		-460,
+		-450
+	],
+	"sing_duration": 4,
+	"scale": 3.5
+}

@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "Spooky Idle"
+		},
+		{
+			"offsets": [
+				132,
+				-60
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "Spooky Left"
+		},
+		{
+			"offsets": [
+				60,
+				35
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "Spooky Down"
+		},
+		{
+			"offsets": [
+				110,
+				90
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "Spooky Up"
+		},
+		{
+			"offsets": [
+				-33,
+				-6
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "Spooky Right"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/internet/Spooky_Assets",
+	"position": [
+		110,
+		280
+	],
+	"healthicon": "scary",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		164,
+		32
+	],
+	"camera_position": [
+		-50,
+		-160
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

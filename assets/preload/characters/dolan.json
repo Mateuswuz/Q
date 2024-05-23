@@ -1,0 +1,272 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "donal_idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				77,
+				19
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "donal_left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-45
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "donal_down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-21,
+				118
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "donal_up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-84,
+				-22
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "donal_right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "donal_idle"
+		},
+		{
+			"offsets": [
+				77,
+				19
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "donal_left"
+		},
+		{
+			"offsets": [
+				0,
+				-45
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "donal_down"
+		},
+		{
+			"offsets": [
+				-21,
+				118
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "donal_up"
+		},
+		{
+			"offsets": [
+				-84,
+				-22
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				12,
+				13
+			],
+			"name": "donal_right"
+		},
+		{
+			"offsets": [
+				-25,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wantsome",
+			"indices": [
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57,
+				58,
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78,
+				79,
+				80,
+				81,
+				81,
+				83,
+				84,
+				85,
+				86,
+				87,
+				88,
+				89,
+				90,
+				91,
+				92,
+				93,
+				94,
+				95,
+				96,
+				97,
+				98,
+				99,
+				100,
+				101,
+				102,
+				103,
+				104,
+				105,
+				106,
+				107,
+				108,
+				109,
+				110,
+				111,
+				112,
+				113,
+				114,
+				115,
+				116,
+				117
+			],
+			"name": "donal_wantsome0"
+		},
+		{
+			"offsets": [
+				-25,
+				22
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "wantsomestatic",
+			"indices": [],
+			"name": "donal_wantsome_static0"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/internet/donal",
+	"position": [
+		150,
+		360
+	],
+	"healthicon": "dolan",
+	"flip_x": false,
+	"healthbar_colors": [
+		69,
+		112,
+		240
+	],
+	"camera_position": [
+		-130,
+		-110
+	],
+	"sing_duration": 4,
+	"scale": 2
+}

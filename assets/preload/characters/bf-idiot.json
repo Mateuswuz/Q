@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				154,
+				5
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				10,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				1,
+				83
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				34
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "left miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				34
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "right miss0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				34
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "up miss 0",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				74,
+				34
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "down miss0",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/internet/idiot_bf_assets",
+	"position": [
+		180,
+		340
+	],
+	"healthicon": "bf-idiot",
+	"flip_x": true,
+	"healthbar_colors": [
+		242,
+		242,
+		242
+	],
+	"camera_position": [
+		230,
+		-90
+	],
+	"sing_duration": 6,
+	"scale": 2
+}

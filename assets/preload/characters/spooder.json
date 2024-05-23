@@ -1,0 +1,169 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				118,
+				21
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				116,
+				-56
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-151,
+				268
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-103,
+				65
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "idle-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				118,
+				21
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singLEFT-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				116,
+				-56
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singDOWN-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				-151,
+				268
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singUP-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				-103,
+				65
+			],
+			"loop": true,
+			"fps": 24,
+			"anim": "singRIGHT-loop",
+			"indices": [
+				10,
+				11,
+				12,
+				13
+			],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				213,
+				118
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "yudodis",
+			"indices": [],
+			"name": "y u do dis"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/internet/spodr_men",
+	"position": [
+		110,
+		440
+	],
+	"healthicon": "spooder",
+	"flip_x": false,
+	"healthbar_colors": [
+		254,
+		0,
+		0
+	],
+	"camera_position": [
+		310,
+		-50
+	],
+	"sing_duration": 4,
+	"scale": 2
+}
