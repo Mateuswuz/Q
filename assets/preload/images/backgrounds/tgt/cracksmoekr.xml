@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="cracksmoekr.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="chainsmoker0000" x="1897" y="0" width="622" height="922" frameX="-38" frameY="-183" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0001" x="1897" y="0" width="622" height="922" frameX="-38" frameY="-183" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0002" x="1261" y="933" width="627" height="929" frameX="-43" frameY="-176" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0003" x="1261" y="933" width="627" height="929" frameX="-43" frameY="-176" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0004" x="631" y="933" width="630" height="932" frameX="-47" frameY="-173" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0005" x="631" y="933" width="630" height="932" frameX="-47" frameY="-173" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0006" x="1265" y="0" width="632" height="933" frameX="-49" frameY="-172" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0007" x="1265" y="0" width="632" height="933" frameX="-49" frameY="-172" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0008" x="0" y="0" width="633" height="933" frameX="-50" frameY="-172" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0009" x="0" y="0" width="633" height="933" frameX="-50" frameY="-172" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0010" x="633" y="0" width="632" height="933" frameX="-49" frameY="-172" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0011" x="633" y="0" width="632" height="933" frameX="-49" frameY="-172" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0012" x="0" y="933" width="631" height="932" frameX="-45" frameY="-173" frameWidth="826" frameHeight="1175"/>
+	<SubTexture name="chainsmoker0013" x="0" y="933" width="631" height="932" frameX="-45" frameY="-173" frameWidth="826" frameHeight="1175"/>
+</TextureAtlas>
