@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="FrontSkeleton1_Assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="FrontSkeleton1_Assets0000" x="0" y="670" width="426" height="660" frameX="2" frameY="-20" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0001" x="0" y="670" width="426" height="660" frameX="2" frameY="-20" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0002" x="1276" y="0" width="426" height="661" frameX="2" frameY="-13" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0003" x="1276" y="0" width="426" height="661" frameX="2" frameY="-13" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0004" x="850" y="0" width="426" height="666" frameX="2" frameY="-7" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0005" x="850" y="0" width="426" height="666" frameX="2" frameY="-7" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0006" x="425" y="0" width="425" height="668" frameX="0" frameY="-2" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0007" x="425" y="0" width="425" height="668" frameX="0" frameY="-2" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0008" x="0" y="0" width="425" height="670" frameX="-1" frameY="2" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0009" x="0" y="0" width="425" height="670" frameX="-1" frameY="2" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0010" x="0" y="0" width="425" height="670" frameX="-1" frameY="2" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0011" x="0" y="0" width="425" height="670" frameX="-1" frameY="2" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0012" x="0" y="0" width="425" height="670" frameX="-1" frameY="2" frameWidth="425" frameHeight="679"/>
+	<SubTexture name="FrontSkeleton1_Assets0013" x="0" y="0" width="425" height="670" frameX="-1" frameY="2" frameWidth="425" frameHeight="679"/>
+</TextureAtlas>
