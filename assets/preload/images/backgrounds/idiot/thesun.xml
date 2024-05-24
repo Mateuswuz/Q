@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="thesun.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="sun bop0000" x="1635" y="0" width="563" height="570" frameX="-740" frameY="-300" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0001" x="0" y="1308" width="559" height="568" frameX="-744" frameY="-302" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0002" x="1635" y="570" width="563" height="568" frameX="-741" frameY="-296" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0003" x="559" y="1308" width="552" height="552" frameX="-748" frameY="-297" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0004" x="2198" y="0" width="550" height="553" frameX="-748" frameY="-289" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0005" x="2198" y="0" width="550" height="553" frameX="-748" frameY="-289" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0006" x="593" y="380" width="558" height="535" frameX="-743" frameY="-294" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0007" x="593" y="380" width="558" height="535" frameX="-743" frameY="-294" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0008" x="0" y="380" width="593" height="548" frameX="-750" frameY="-287" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0009" x="0" y="380" width="593" height="548" frameX="-750" frameY="-287" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0010" x="1082" y="0" width="552" height="614" frameX="-745" frameY="-294" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0011" x="1082" y="0" width="552" height="614" frameX="-745" frameY="-294" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0012" x="532" y="0" width="550" height="625" frameX="-746" frameY="-294" frameWidth="1983" frameHeight="1132"/>
+	<SubTexture name="sun bop0013" x="0" y="0" width="532" height="380" frameX="-756" frameY="-312" frameWidth="1983" frameHeight="1132"/>
+</TextureAtlas>
