@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="IdiotTaunt.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="YouAreTaunt0000" x="1481" y="248" width="207" height="247" frameX="0" frameY="-141" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0001" x="1481" y="248" width="207" height="247" frameX="0" frameY="-141" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0002" x="1481" y="876" width="233" height="206" frameX="-14" frameY="-137" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0003" x="1481" y="876" width="233" height="206" frameX="-14" frameY="-137" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0004" x="774" y="537" width="251" height="172" frameX="-26" frameY="-123" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0005" x="774" y="537" width="251" height="172" frameX="-26" frameY="-123" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0006" x="714" y="926" width="240" height="173" frameX="-31" frameY="-112" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0007" x="714" y="926" width="240" height="173" frameX="-31" frameY="-112" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0008" x="774" y="732" width="242" height="178" frameX="-28" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0009" x="774" y="732" width="242" height="178" frameX="-28" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0010" x="1481" y="1082" width="244" height="183" frameX="-26" frameY="-105" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0011" x="1481" y="1082" width="244" height="183" frameX="-26" frameY="-105" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0012" x="1481" y="686" width="254" height="190" frameX="-23" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0013" x="1481" y="686" width="254" height="190" frameX="-23" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0014" x="1481" y="495" width="261" height="191" frameX="-18" frameY="-109" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0015" x="0" y="1133" width="261" height="279" frameX="-18" frameY="-55" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0016" x="1481" y="0" width="271" height="248" frameX="-18" frameY="-53" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0017" x="0" y="254" width="273" height="283" frameX="-18" frameY="-18" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0018" x="0" y="0" width="327" height="254" frameX="-18" frameY="-46" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0019" x="261" y="1133" width="327" height="209" frameX="-18" frameY="-92" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0020" x="0" y="926" width="357" height="207" frameX="-18" frameY="-93" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0021" x="357" y="926" width="357" height="207" frameX="-18" frameY="-93" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0022" x="327" y="202" width="381" height="202" frameX="-18" frameY="-98" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0023" x="327" y="0" width="382" height="202" frameX="-18" frameY="-98" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0024" x="709" y="0" width="386" height="197" frameX="-18" frameY="-103" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0025" x="709" y="197" width="386" height="197" frameX="-18" frameY="-103" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0026" x="0" y="537" width="387" height="195" frameX="-18" frameY="-105" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0027" x="387" y="537" width="387" height="195" frameX="-18" frameY="-105" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0028" x="0" y="732" width="387" height="194" frameX="-18" frameY="-106" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0029" x="0" y="732" width="387" height="194" frameX="-18" frameY="-106" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0030" x="387" y="732" width="387" height="193" frameX="-18" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0031" x="387" y="732" width="387" height="193" frameX="-18" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0032" x="1095" y="0" width="386" height="193" frameX="-18" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0033" x="1095" y="0" width="386" height="193" frameX="-18" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0034" x="1095" y="386" width="386" height="193" frameX="-18" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0035" x="1095" y="386" width="386" height="193" frameX="-18" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0036" x="1095" y="193" width="386" height="193" frameX="-18" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0037" x="1095" y="193" width="386" height="193" frameX="-18" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0038" x="1095" y="579" width="386" height="193" frameX="-18" frameY="-107" frameWidth="409" frameHeight="387"/>
+	<SubTexture name="YouAreTaunt0039" x="1095" y="579" width="386" height="193" frameX="-18" frameY="-107" frameWidth="409" frameHeight="387"/>
+</TextureAtlas>

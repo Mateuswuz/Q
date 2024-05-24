@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bfSpook.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="bfSpook0000" x="0" y="436" width="426" height="342" frameX="-11" frameY="-87" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0001" x="0" y="436" width="426" height="342" frameX="-11" frameY="-87" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0002" x="0" y="0" width="397" height="436" frameX="-1" frameY="0" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0003" x="0" y="0" width="397" height="436" frameX="-1" frameY="0" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0004" x="0" y="778" width="409" height="355" frameX="-3" frameY="-73" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0005" x="397" y="0" width="411" height="355" frameX="-1" frameY="-72" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0006" x="808" y="363" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0007" x="808" y="0" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0008" x="1209" y="0" width="399" height="362" frameX="-1" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0009" x="808" y="363" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0010" x="808" y="0" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0011" x="1209" y="0" width="399" height="362" frameX="-1" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0012" x="808" y="363" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0013" x="808" y="0" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0014" x="1209" y="0" width="399" height="362" frameX="-1" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0015" x="808" y="363" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0016" x="808" y="0" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0017" x="1209" y="0" width="399" height="362" frameX="-1" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0018" x="808" y="363" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0019" x="808" y="0" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0020" x="1209" y="0" width="399" height="362" frameX="-1" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0021" x="808" y="363" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0022" x="808" y="0" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0023" x="1209" y="0" width="399" height="362" frameX="-1" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0024" x="808" y="363" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0025" x="808" y="0" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0026" x="1209" y="0" width="399" height="362" frameX="-1" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0027" x="808" y="363" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+	<SubTexture name="bfSpook0028" x="808" y="0" width="401" height="363" frameX="0" frameY="-62" frameWidth="436" frameHeight="436"/>
+</TextureAtlas>

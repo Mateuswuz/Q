@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sanic_gun.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="sanic_gun0000" x="0" y="0" width="432" height="589" frameX="2" frameY="1" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0001" x="0" y="0" width="432" height="589" frameX="2" frameY="1" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0002" x="0" y="0" width="432" height="589" frameX="2" frameY="1" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0003" x="0" y="0" width="432" height="589" frameX="2" frameY="1" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0004" x="0" y="0" width="432" height="589" frameX="2" frameY="1" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0005" x="0" y="0" width="432" height="589" frameX="2" frameY="1" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0006" x="864" y="0" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0007" x="864" y="0" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0008" x="864" y="0" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0009" x="864" y="0" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0010" x="864" y="0" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0011" x="864" y="0" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0012" x="0" y="589" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0013" x="0" y="589" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0014" x="0" y="589" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0015" x="0" y="589" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0016" x="0" y="589" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0017" x="0" y="589" width="432" height="583" frameX="2" frameY="-5" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0018" x="432" y="0" width="432" height="588" frameX="2" frameY="0" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0019" x="432" y="0" width="432" height="588" frameX="2" frameY="0" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0020" x="432" y="0" width="432" height="588" frameX="2" frameY="0" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0021" x="432" y="0" width="432" height="588" frameX="2" frameY="0" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0022" x="432" y="0" width="432" height="588" frameX="2" frameY="0" frameWidth="429" frameHeight="586"/>
+	<SubTexture name="sanic_gun0023" x="432" y="0" width="432" height="588" frameX="2" frameY="0" frameWidth="429" frameHeight="586"/>
+</TextureAtlas>

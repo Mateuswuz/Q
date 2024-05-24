@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="weegee_assets.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="weegee_down0000" x="0" y="991" width="285" height="336" frameX="-6" frameY="-13" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0001" x="0" y="991" width="285" height="336" frameX="-6" frameY="-13" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0002" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0003" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0004" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0005" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0006" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0007" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0008" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0009" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0010" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0011" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0012" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_down0013" x="1544" y="0" width="273" height="350" frameX="0" frameY="0" frameWidth="291" frameHeight="350"/>
+	<SubTexture name="weegee_idle0000" x="1544" y="754" width="160" height="404" frameX="0" frameY="0" frameWidth="160" frameHeight="404"/>
+	<SubTexture name="weegee_idle0001" x="1544" y="754" width="160" height="404" frameX="0" frameY="0" frameWidth="160" frameHeight="404"/>
+	<SubTexture name="weegee_idle0002" x="1544" y="350" width="160" height="404" frameX="0" frameY="0" frameWidth="160" frameHeight="404"/>
+	<SubTexture name="weegee_idle0003" x="1544" y="350" width="160" height="404" frameX="0" frameY="0" frameWidth="160" frameHeight="404"/>
+	<SubTexture name="weegee_left0000" x="368" y="460" width="300" height="396" frameX="-18" frameY="-5" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0001" x="368" y="460" width="300" height="396" frameX="-18" frameY="-5" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0002" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0003" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0004" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0005" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0006" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0007" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0008" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0009" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0010" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0011" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0012" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_left0013" x="1026" y="0" width="279" height="401" frameX="-18" frameY="0" frameWidth="317" frameHeight="401"/>
+	<SubTexture name="weegee_right0000" x="1026" y="401" width="260" height="402" frameX="0" frameY="-2" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0001" x="1026" y="401" width="260" height="402" frameX="0" frameY="-2" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0002" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0003" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0004" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0005" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0006" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0007" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0008" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0009" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0010" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0011" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0012" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_right0013" x="1305" y="0" width="239" height="402" frameX="-27" frameY="-1" frameWidth="266" frameHeight="403"/>
+	<SubTexture name="weegee_up0000" x="692" y="0" width="334" height="439" frameX="-34" frameY="-46" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0001" x="0" y="0" width="368" height="484" frameX="0" frameY="0" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0002" x="692" y="439" width="290" height="477" frameX="-87" frameY="-32" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0003" x="368" y="0" width="324" height="460" frameX="-53" frameY="-49" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0004" x="0" y="484" width="349" height="507" frameX="-27" frameY="-2" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0005" x="692" y="439" width="290" height="477" frameX="-87" frameY="-32" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0006" x="368" y="0" width="324" height="460" frameX="-53" frameY="-49" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0007" x="0" y="484" width="349" height="507" frameX="-27" frameY="-2" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0008" x="692" y="439" width="290" height="477" frameX="-87" frameY="-32" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0009" x="368" y="0" width="324" height="460" frameX="-53" frameY="-49" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0010" x="0" y="484" width="349" height="507" frameX="-27" frameY="-2" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0011" x="692" y="439" width="290" height="477" frameX="-87" frameY="-32" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0012" x="368" y="0" width="324" height="460" frameX="-53" frameY="-49" frameWidth="376" frameHeight="509"/>
+	<SubTexture name="weegee_up0013" x="0" y="484" width="349" height="507" frameX="-27" frameY="-2" frameWidth="376" frameHeight="509"/>
+</TextureAtlas>
