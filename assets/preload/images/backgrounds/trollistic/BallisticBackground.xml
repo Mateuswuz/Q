@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BallisticBackground.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Background Whitty Moving0000" x="2560" y="0" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="701"/>
+	<SubTexture name="Background Whitty Moving0001" x="2560" y="0" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="701"/>
+	<SubTexture name="Background Whitty Moving0002" x="0" y="0" width="2560" height="701" frameX="0" frameY="0" frameWidth="2560" frameHeight="701"/>
+	<SubTexture name="Background Whitty Moving0003" x="0" y="0" width="2560" height="701" frameX="0" frameY="0" frameWidth="2560" frameHeight="701"/>
+	<SubTexture name="Background Whitty Moving0004" x="2560" y="700" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="701"/>
+	<SubTexture name="Background Whitty Moving0005" x="2560" y="700" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="701"/>
+	<SubTexture name="Background Whitty Moving0006" x="2560" y="0" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="701"/>
+	<SubTexture name="Background Whitty Moving0007" x="2560" y="0" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="701"/>
+	<SubTexture name="Background Whitty Start0000" x="2560" y="701" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="700"/>
+	<SubTexture name="Background Whitty Startup0000" x="2560" y="701" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="700"/>
+	<SubTexture name="Background Whitty Startup0001" x="0" y="701" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="700"/>
+	<SubTexture name="Background Whitty Startup0002" x="2560" y="700" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="700"/>
+	<SubTexture name="Background Whitty Startup0003" x="2560" y="1401" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="700"/>
+	<SubTexture name="Background Whitty Startup0004" x="0" y="2101" width="2560" height="699" frameX="0" frameY="0" frameWidth="2560" frameHeight="700"/>
+	<SubTexture name="Background Whitty Startup0005" x="0" y="1401" width="2560" height="700" frameX="0" frameY="0" frameWidth="2560" frameHeight="700"/>
+</TextureAtlas>
