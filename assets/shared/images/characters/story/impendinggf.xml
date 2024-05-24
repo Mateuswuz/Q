@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="impendinggf.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="impendinggf idle0000" x="190" y="0" width="190" height="198" frameX="-223" frameY="-236" frameWidth="642" frameHeight="642"/>
+	<SubTexture name="impendinggf idle0001" x="0" y="0" width="190" height="199" frameX="-222" frameY="-234" frameWidth="642" frameHeight="642"/>
+</TextureAtlas>
