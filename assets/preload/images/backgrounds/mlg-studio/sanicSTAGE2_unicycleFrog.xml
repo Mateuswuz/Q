@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sanicSTAGE2_unicycleFrog.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="unicyclefrogbalance0000" x="0" y="0" width="200" height="234" frameX="2" frameY="2" frameWidth="196" frameHeight="238"/>
+</TextureAtlas>
