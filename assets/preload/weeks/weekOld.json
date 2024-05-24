@@ -1,0 +1,50 @@
+{
+	"songs": [
+		[
+			"trolling-(older)",
+			"troll-p1",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"mistaken",
+			"troll-p2",
+			[
+				215,
+				215,
+				215
+			]
+		],
+		[
+			"the-incident",
+			"troll-p3",
+			[
+				0,
+				0,
+				0
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "old",
+	"difficulties": "old",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "old time",
+	"weekName": "weekOld",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

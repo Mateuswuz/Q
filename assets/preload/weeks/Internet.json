@@ -1,0 +1,113 @@
+{
+	"songs": [
+		[
+			"never-be-funkin",
+			"cereal",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"silly",
+			"derp",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"idiot",
+			"idiot",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"speed",
+			"sanic",
+			[
+				0,
+				53,
+				253
+			]
+		],
+		[
+			"crybaby",
+			"tails",
+			[
+				226,
+				133,
+				13
+			]
+		],
+		[
+			"awestruck",
+			"awesome",
+			[
+				246,
+				233,
+				0
+			]
+		],
+		[
+			"obey",
+			"weegee",
+			[
+				86,
+				213,
+				55
+			]
+		],
+		[
+			"spooky-scary",
+			"scary",
+			[
+				246,
+				133,
+				13
+			]
+		],
+		[
+    "turn-the-trolls-off",
+			"ttto",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"skibidi",
+			"toilet",
+			[
+				255,
+				255,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "Ohh yea the internet was amazing",
+	"weekName": "Internet",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

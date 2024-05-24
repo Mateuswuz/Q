@@ -1,0 +1,113 @@
+{
+	"songs": [
+		[
+			"imposter",
+			"imposter",
+			[
+				255,
+				33,
+				0
+			]
+		],
+		[
+			"ultimate-trolldown",
+			"mr-trololo-sick",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"trollistic",
+			"troll-whitty",
+			[
+				255,
+				213,
+				13
+			]
+		],
+		[
+			"alone-forever",
+			"troll-alone",
+			[
+				195,
+				195,
+				193
+			]
+		],
+		[
+			"happiness",
+			"troll-happy",
+			[
+				26,
+				113,
+				93
+			]
+		],
+		[
+			"youtooz",
+			"youtooz",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"controlling-yourself",
+			"cy-trollge",
+			[
+				20,
+				20,
+				53
+			]
+		],
+		[
+			"troll-lore",
+			"lore-limc",
+			[
+				255,
+				255,
+				253
+			]
+		],
+		[
+			"absurde",
+			"corruptus",
+			[
+				246,
+				213,
+				75
+			]
+		],
+		[
+			"trodding",
+			"todd",
+			[
+				206,
+				173,
+				133
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": "trollface songs",
+	"weekName": "Troll",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

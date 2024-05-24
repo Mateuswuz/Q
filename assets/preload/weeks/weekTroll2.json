@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"tomfoolery",
+			"corruptus",
+			[
+				186,
+				173,
+				53
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "week2",
+	"difficulties": "Hard",
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"storyName": " I'm back to TROLL",
+	"weekName": "weekTwo",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
