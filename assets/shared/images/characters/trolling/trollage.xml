@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="trollage.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="trollage idle0000" x="0" y="1492" width="620" height="205" frameX="-57" frameY="-133" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage idle0001" x="0" y="1041" width="674" height="213" frameX="0" frameY="-125" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage idle0002" x="1207" y="1254" width="606" height="224" frameX="-58" frameY="-114" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage idle0003" x="603" y="1254" width="604" height="234" frameX="-55" frameY="-104" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage idle0004" x="0" y="1254" width="603" height="238" frameX="-55" frameY="-100" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage idle0005" x="1223" y="253" width="602" height="243" frameX="-55" frameY="-95" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage left0000" x="611" y="260" width="602" height="260" frameX="-55" frameY="-78" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage left0001" x="0" y="787" width="602" height="254" frameX="-55" frameY="-84" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage left0002" x="1223" y="0" width="602" height="253" frameX="-55" frameY="-85" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage up0000" x="0" y="535" width="612" height="252" frameX="-55" frameY="-86" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage up0001" x="612" y="535" width="611" height="251" frameX="-55" frameY="-87" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage up0002" x="602" y="787" width="607" height="251" frameX="-55" frameY="-87" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage right0000" x="0" y="0" width="611" height="271" frameX="-55" frameY="-67" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage right0001" x="0" y="271" width="611" height="264" frameX="-55" frameY="-74" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage right0002" x="611" y="0" width="612" height="260" frameX="-55" frameY="-78" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage down0000" x="620" y="1492" width="621" height="198" frameX="-56" frameY="-142" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage down0001" x="1825" y="0" width="620" height="197" frameX="-57" frameY="-141" frameWidth="677" frameHeight="395"/>
+	<SubTexture name="trollage down0002" x="674" y="1041" width="677" height="205" frameX="0" frameY="-133" frameWidth="677" frameHeight="395"/>
+</TextureAtlas>
