@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="office.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="Bottom Level Boppers0000" x="0" y="649" width="1744" height="625" frameX="-40" frameY="-40" frameWidth="1978" frameHeight="674"/>
+	<SubTexture name="Bottom Level Boppers0001" x="0" y="0" width="1744" height="649" frameX="-40" frameY="-20" frameWidth="1978" frameHeight="674"/>
+</TextureAtlas>
