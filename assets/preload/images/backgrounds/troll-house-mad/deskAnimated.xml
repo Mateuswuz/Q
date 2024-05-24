@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="deskAnimated.png">
+	<!-- Created using the Spritesheet and XML generator -->
+	<!-- https://uncertainprod.github.io/FNF-Spritesheet-XML-generator-Web -->
+	<SubTexture name="deskIdle0000" x="1098" y="0" width="1116" height="628" frameX="0" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0001" x="1098" y="0" width="1116" height="628" frameX="0" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0002" x="1098" y="0" width="1116" height="628" frameX="0" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0003" x="1098" y="0" width="1116" height="628" frameX="0" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0004" x="0" y="344" width="1098" height="645" frameX="0" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0005" x="0" y="344" width="1098" height="645" frameX="0" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0006" x="0" y="344" width="1098" height="645" frameX="0" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0007" x="0" y="344" width="1098" height="645" frameX="0" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0008" x="0" y="0" width="1098" height="344" frameX="-13" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0009" x="0" y="0" width="1098" height="344" frameX="-13" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0010" x="0" y="0" width="1098" height="344" frameX="-13" frameY="0" frameWidth="1116" frameHeight="344"/>
+	<SubTexture name="deskIdle0011" x="0" y="0" width="1098" height="344" frameX="-13" frameY="0" frameWidth="1116" frameHeight="344"/>
+</TextureAtlas>
