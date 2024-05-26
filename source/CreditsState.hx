@@ -80,7 +80,7 @@ class CreditsState extends MusicBeatState
 		}
 		#end
 
-		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
+		var pisspoop:Array<String>> = [ //Name - Icon name - Description - Link - BG Color 
 			['Android Port'],
 			['idklool', 'nothing', 'Hi I ported this again', 'https://youtube.com/@idklool01', 'FFFFFF'],
 			['Mateuzinho', 'nothing', 'Portando em Apk denovo', 'https://youtube.com/@mateuswuz?si=XIZ-9ydOMl49sfk7', 'FFFFFF']
