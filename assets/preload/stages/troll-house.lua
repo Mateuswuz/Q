@@ -38,8 +38,8 @@ function onEvent(n, v1, v2)
    triggerEvent('Change Character', 'bf', 'fb')
    triggerEvent('Change Character', 'dad', 'terry-mad-Inverted')
    triggerEvent('Change Character', 'gf', 'fg')
-   setProperty('bg1.visible', false);
-   setProperty('bg2.visible', false);
+   setProperty('bg1.visible', true);
+   setProperty('bg2.visible', true);
    end
    if v1 == '0' then
    cameraFlash('game', 'FFFFFF', '1')
